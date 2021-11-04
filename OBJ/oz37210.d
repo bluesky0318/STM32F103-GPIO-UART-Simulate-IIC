@@ -1,0 +1,17 @@
+.\obj\oz37210.o: Source\User\Device\OZ37210.c
+.\obj\oz37210.o: Source\User\Device\OZ37210.h
+.\obj\oz37210.o: .\Source\User\IIC\iic.h
+.\obj\oz37210.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\oz37210.o: .\Source\CMSIS\Core\CM3\stm32f10x.h
+.\obj\oz37210.o: .\Source\CMSIS\Core\CM3\core_cm3.h
+.\obj\oz37210.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\oz37210.o: .\Source\CMSIS\Core\CM3\system_stm32f10x.h
+.\obj\oz37210.o: .\Source\User\Main\stm32f10x_conf.h
+.\obj\oz37210.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\obj\oz37210.o: .\Source\CMSIS\Core\CM3\stm32f10x.h
+.\obj\oz37210.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\oz37210.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\oz37210.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\obj\oz37210.o: .\Source\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\oz37210.o: .\Source\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\oz37210.o: .\Source\User\Common\delay.h
